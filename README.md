@@ -9,13 +9,15 @@ We build practical tools for AI workflows and incident response. Our security re
   <img src="assets/profile-signal-static.png" alt="">
 </picture>
 
-## In verification
+## Open work
 
-### liveD LoRA Studio
+### [liveD LoRA Studio](https://github.com/PhantomBugz/lived-lora-studio)
 
-**Apache-2.0 developer preview · public launch pending hosted checks**
+**Apache-2.0 developer preview · [source prerelease](https://github.com/PhantomBugz/lived-lora-studio/releases/tag/v0.1.0.dev0)**
 
-The source preview includes a synthetic encrypted-review demo, approved-only export, and a separate local or remote NVIDIA GPU target picker. **Training is pending.** The public repository will be linked here after hosted verification.
+[![liveD source checks](https://github.com/PhantomBugz/lived-lora-studio/actions/workflows/source-smoke.yml/badge.svg)](https://github.com/PhantomBugz/lived-lora-studio/actions/workflows/source-smoke.yml)
+
+Run a synthetic encrypted-review demo with approved-only export. A separate picker selects an exact local or remote NVIDIA GPU target. **Training is pending.** [Run the demo](https://github.com/PhantomBugz/lived-lora-studio#try-the-review-and-export-demo) · [Release status](https://github.com/PhantomBugz/lived-lora-studio/blob/main/docs/STATUS.md).
 
 ## Public work
 
