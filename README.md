@@ -19,15 +19,19 @@ We build practical tools for AI workflows and incident response. Our security re
 
 Run a synthetic encrypted-review demo with approved-only export. A separate picker selects an exact local or remote NVIDIA GPU target. **Training is pending.** [Run the demo](https://github.com/PhantomBugz/lived-lora-studio#try-the-review-and-export-demo) · [Release status](https://github.com/PhantomBugz/lived-lora-studio/blob/main/docs/STATUS.md).
 
+### [Zombie Killer](https://github.com/PhantomBugz/Zombie-Killer-AI)
+
+**Apache-2.0 source alpha · [v0.1.0-alpha.1 prerelease](https://github.com/PhantomBugz/Zombie-Killer-AI/releases/tag/v0.1.0-alpha.1)**
+
+[![Zombie Killer CI](https://github.com/PhantomBugz/Zombie-Killer-AI/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/PhantomBugz/Zombie-Killer-AI/actions/workflows/ci.yml)
+
+A local-first containment console for AI-agent processes and supported memory stores. Windows and Ubuntu Linux are the alpha source qualification targets; macOS native workflows remain unqualified. The browser preview is synthetic, and no signed installer is claimed. [Project page](https://phantombugz.com/zombie-killer.html) · [Quick start](https://github.com/PhantomBugz/Zombie-Killer-AI#quick-start).
+
 ## Public work
 
 ### [Aftershock](https://github.com/PhantomBugz/aftershock)
 
 A DataHub-backed incident response agent with governed remediation and auditable receipts. [Watch the demo](https://youtu.be/yopSGs_kx5s).
-
-## Coming next
-
-**Zombie Killer** is a local-first process safety tool for AI-agent workloads. [Explore the project preview](https://phantombugz.com/zombie-killer.html); public source and releases are pending.
 
 Find project updates at [phantombugz.com](https://phantombugz.com/). [Venice CLI Downloads](https://github.com/PhantomBugz/Venice-CLI-Downloads) hosts public release artifacts and installation instructions; its source repository is private.
 
